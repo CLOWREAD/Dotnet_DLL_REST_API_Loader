@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEWD_DLL_Loader", "DEWD_DLL_Loader.csproj", "{3797348A-49C3-4A5E-8C5F-F9BBB495D226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEWD_DLL_Loading_Manager", "..\DEWD_DLL_Loading_Manager\DEWD_DLL_Loading_Manager.csproj", "{8354B610-6CC9-43AA-B70C-C08AF0924EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3797348A-49C3-4A5E-8C5F-F9BBB495D226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3797348A-49C3-4A5E-8C5F-F9BBB495D226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3797348A-49C3-4A5E-8C5F-F9BBB495D226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3797348A-49C3-4A5E-8C5F-F9BBB495D226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8354B610-6CC9-43AA-B70C-C08AF0924EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8354B610-6CC9-43AA-B70C-C08AF0924EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8354B610-6CC9-43AA-B70C-C08AF0924EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8354B610-6CC9-43AA-B70C-C08AF0924EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299D8651-74C6-43EB-9841-99C774000364}
+	EndGlobalSection
+EndGlobal
